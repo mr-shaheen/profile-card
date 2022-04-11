@@ -1,0 +1,59 @@
+body{
+    background : rgb(98,174,233);
+    background: linear-gradient(90deg, rgba(98,174,233,1) 0% , rgba(247,247,247,1) 50% , rgba(110,188,232,1) 100%);
+}
+.box{
+    background-color: #5297cc;
+    height: 400px;
+    width: 450px;
+    margin-left: 33%;
+    margin-top: 10%;
+    border-radius: 30px;
+    box-shadow: 3px 3px 3px 3px rgb(2, 49, 92);
+
+}
+
+
+.im{
+    border-radius: 50px;
+    border: white 4px solid;
+    margin-left: 50px;
+    margin-top: 40px;
+    box-shadow:3px 2px 2px 2px rgb(165, 209, 235);
+}
+.pr{
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.txt{
+    padding: 0px 50px 0px 50px;
+
+
+}
+.txt .p3,.txt h3{
+    color: white;
+    
+}
+.txt h3{
+    font-family: sans-serif;
+    letter-spacing: 3px;
+    font-size:30px;
+    line-height: 10px;
+}
+.txt .p3{
+    line-height: 20px;
+    font-size: 17px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-bottom: 10px;
+  
+}
+.i .im1, .im2, .im3{
+    
+    border-radius: 50px;
+    margin-left: 15px;
+}
+.i{
+    margin-left: 30px;
+
+}
